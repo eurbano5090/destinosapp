@@ -1,2 +1,2 @@
 # destinosapp
-pagina creada en Sprinboot con Jpa y thymeleaf, vista en Html y bootstrap
+pagina creada en Springboot con Jpa y thymeleaf, vista en Html y bootstrap
