@@ -1,4 +1,4 @@
 # eurbano5090_destinosapp
 Pagina creada con Springboot
-Jpa, Thymeleaf,bootstrap
-vista en Html.
+dependenciaas Jpa, Thymeleaf,devtools,web 
+ vista en Html, usando bootstrap
