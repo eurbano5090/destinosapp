@@ -1,4 +1,5 @@
 # eurbano5090_destinosapp
-Pagina creada con Springboot
-Dependencias Jpa, Thymeleaf,devtools,web . base de datos postgresql
-Vista en Html, usando bootstrap
+1.Pagina creada con Springboot
+2.Dependencias Jpa, Thymeleaf,devtools,Spring web,base de datos Postgre
+3.Vistas en html usando bootstrap
+
